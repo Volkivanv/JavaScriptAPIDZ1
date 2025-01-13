@@ -1,0 +1,61 @@
+
+h1{
+    text-align: center;
+}
+.container{
+    max-width: 1200px;
+    gap: 10px;
+}
+
+.row{
+    padding: 10px;
+    background-color: skyblue;
+    
+}
+.col{
+
+}
+.even{
+    background-color: rgb(200, 209, 247);
+}
+.max-count{
+    text-align: center;
+}
+
+.count{
+    text-align: center;
+}
+
+.table-header{
+    background-color: rgb(151, 151, 230);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.add-button, .delete-button {
+    padding: 10px;
+    background-color: #2B415E;
+    border-radius: 5px;
+    color: aliceblue;
+    cursor: pointer;
+    width: 100px;
+}
+
+.add-button:hover {
+    color: #2B415E;
+    background: aliceblue;
+    border: 2px solid #2B415E;
+    transition: all 0.8s ease-out;
+}
+
+.delete-button:hover {
+    color: #2B415E;
+    background: aliceblue;
+    border: 2px solid #2B415E;
+    transition: all 0.8s ease-out;
+}
+
+.disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}

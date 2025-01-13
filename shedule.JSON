@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Плавание",
+        "time": "20:00",
+        "maxCount": 20,
+        "count": 0
+    },
+    {
+        "title": "Бокс",
+        "time": "19:00",
+        "maxCount": 30,
+        "count": 2
+    },
+    {
+        "title": "Йога",
+        "time": "21:00",
+        "maxCount": 25,
+        "count": 25
+    },
+    {
+        "title": "Фитнес",
+        "time": "18:00",
+        "maxCount": 10,
+        "count": 3
+    }
+]
